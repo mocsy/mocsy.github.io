@@ -14,11 +14,5 @@ Click on a menu item to edit it's properties.
 ![Editor clip](vue_menu_editor_unstyled.png)
 
 ### Style
-It's intentionally ustyled (mostly, see todo).
+It's intentionally ustyled.
 This provides the most flexibility to you when you consider including it in your project.
-
-### Todo
-* Remove dependency on element-ui
-* Remove red color on active element
-* Provide an optional default style and a demo page
-* Pass data back to parent document
